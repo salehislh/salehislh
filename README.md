@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @salehislh
+- 👋 Hi, I’m amir salehi
 - 📫 [Contact me](https://zil.ink/salehi.com)
 
 <!---
