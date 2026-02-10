@@ -13,10 +13,9 @@ I'm open to collaboration, contributing to projects, or discussing tech and musi
 ---
 
 ### 🛠️ Skills
-- **Programming:** Python 🐍, Java ♨️ (actively learning)
+- **Programming:** Python 🐍 (beginner)
 - **Web:** HTML, CSS (beginner)
 - **Tools:** Git, GitHub, PyCharm, Android Studio
-- **Hobbies:** Guitar, Music Theory, Gaming, Technology
 
 ---
 
