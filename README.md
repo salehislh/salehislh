@@ -11,7 +11,10 @@ Computer Software Engineering student passionate about Python development, with 
 
 ### 🛠️ Skills
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Python](https://img.shields.io/badge/Python-Intermediate-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Web Development](https://img.shields.io/badge/Web-Academic_Projects-0A66C2?style=for-the-badge&logo=html5&logoColor=white)
+![Android](https://img.shields.io/badge/Android-Academic_Projects-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
