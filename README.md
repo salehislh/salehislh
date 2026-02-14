@@ -13,6 +13,7 @@ Computer Software Engineering student passionate about Python development, with 
 
 ![Python](https://img.shields.io/badge/Python-Intermediate-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-Intermediate-003B57?style=for-the-badge&logo=database&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Beginner-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ![Web Development](https://img.shields.io/badge/Web-Academic_Projects-0A66C2?style=for-the-badge&logo=html5&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-Academic_Projects-2E7D32?style=for-the-badge&logo=android&logoColor=white)
@@ -22,7 +23,7 @@ Computer Software Engineering student passionate about Python development, with 
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🛠️ Tools
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyder-ide&logoColor=white)
