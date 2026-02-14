@@ -35,7 +35,7 @@ Computer Software Engineering student passionate about Python development, with 
 
 [![telegram](https://img.shields.io/badge/salehislh-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/salehislh)
 [![instagram](https://img.shields.io/badge/salehislh-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/salehislh)
-[![x](https://img.shields.io/badge/salehislh-000000?style=flat&logo=x&logoColor=white)](https://x.com/salehislh)
+[![X](https://img.shields.io/badge/salehislh_-000000?style=flat&logo=x&logoColor=white)](https://x.com/salehislh_)
 
 salehicontact.ir@gmail.com
 
