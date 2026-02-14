@@ -1,14 +1,10 @@
 # Hi There 👋, I'm Amir Salehi
 
-### Computer Science Student | Python Developer | Guitar Enthusiast | Gamer
+* Computer Software Engineering
+* Python Developer
+* Guitarist
 
-## Welcome to My GitHub
-
-I'm a motivated Computer Science student specializing in Python development and Android app engineering. I enjoy building efficient, scalable software and continuously strive to follow best coding practices.
-
-In addition to coding, I’m passionate about music and gaming. Playing guitar sharpens my creativity, while gaming deepens my interest in user experience and real-time systems.
-
-I'm open to collaboration, contributing to projects, or discussing tech and music.
+Computer Software Engineering student passionate about Python development, with hands-on experience in Android engineering, database management, and web development. Focused on building efficient, scalable software through clean code and industry best practices.
 
 ---
 
@@ -18,13 +14,6 @@ I'm open to collaboration, contributing to projects, or discussing tech and musi
 
 ---
 
-### 🌱 Currently Learning
-- Advanced Python
-- Web frameworks
-
----
-
 ### 📫 Contact
 - **Email:** [salehicontact.ir@gmail.com](mailto:salehicontact.ir@gmail.com)  
 - **Telegram:** [@Salehislh](https://t.me/salehislh)  
-- **GitHub:** [@salehislh](https://github.com/salehislh)
