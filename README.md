@@ -13,9 +13,8 @@ I'm open to collaboration, contributing to projects, or discussing tech and musi
 ---
 
 ### 🛠️ Skills
-- **Programming:** Python 🐍 (beginner)
-- **Web:** HTML, CSS (beginner)
-- **Tools:** Git, GitHub, PyCharm, Android Studio
+- **Programming:** Python (Average)
+- **Tools:** Git, GitHub, PyCharm, Spyder, VS code
 
 ---
 
