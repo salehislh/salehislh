@@ -19,7 +19,7 @@ Computer Software Engineering student passionate about Python development, with 
 ---
 
 ### 📫 Contact
-[![email](https://img.shields.io/badge/email-contact-blue?style=flat&logo=gmail&logoColor=white)](mailto:salehicontact.ir@gmail.com)
+salehicontact.ir@gmail.com
 [![telegram](https://img.shields.io/badge/telegram-salehislh-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/salehislh)
 
 
