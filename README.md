@@ -16,5 +16,5 @@ Computer Software Engineering student passionate about Python development, with 
 
 ### 📫 Contact
 - **Email:** [salehicontact.ir@gmail.com](mailto:salehicontact.ir@gmail.com)
-- **Telegram:** [![Telegram]](https://t.me/salehislh)
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reza_javadzade) 
+- **Telegram:** [[![Telegram]](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]
+
