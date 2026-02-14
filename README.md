@@ -30,7 +30,6 @@ Computer Software Engineering student passionate about Python development, with 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
 ### 🌐 Connect with Me
 
 [![telegram](https://img.shields.io/badge/salehislh-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/salehislh)
