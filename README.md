@@ -15,5 +15,5 @@ Computer Software Engineering student passionate about Python development, with 
 ---
 
 ### 📫 Contact
-- **Email:** [salehicontact.ir@gmail.com](mailto:salehicontact.ir@gmail.com)  
-- **Telegram:** [@Salehislh](https://t.me/salehislh)  
+- **Email:** salehicontact.ir@gmail.com
+- **Telegram:** [t.me/salehislh](https://t.me/salehislh)  
