@@ -18,7 +18,6 @@ Computer Software Engineering student passionate about Python development, with 
 ![Android](https://img.shields.io/badge/Android-Academic_Projects-2E7D32?style=for-the-badge&logo=android&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Academic_Projects-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-Academic_Projects-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
