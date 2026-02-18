@@ -3,7 +3,6 @@
 
 * Computer Software Engineering
 * Python Developer
-* Guitarist
 
 Computer Software Engineering student passionate about Python development, with hands-on experience in Android engineering, database management, and web development. Focused on building efficient, scalable software through clean code and industry best practices.
 
